@@ -1,0 +1,9 @@
+C:\Users\mathe\source\repos\DiscordWebhook\DiscordWebhook\bin\Debug\DiscordWebhook.pdb
+C:\Users\mathe\source\repos\DiscordWebhook\DiscordWebhook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mathe\source\repos\DiscordWebhook\DiscordWebhook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mathe\source\repos\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.csproj.CopyComplete
+C:\Users\mathe\source\repos\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.pdb
+C:\Users\mathe\source\repos\DiscordWebhook\DiscordWebhook\bin\Debug\DiscordWebhook.exe
+C:\Users\mathe\source\repos\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.exe
